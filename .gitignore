@@ -1,3 +1,4 @@
+.idea/
 *.asv
 *.log
 *.mat
@@ -6,5 +7,4 @@
 *.eps
 *.DS_Store
 *.pdf
-.idea/
 /python/application/Figures/
