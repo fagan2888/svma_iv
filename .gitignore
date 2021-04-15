@@ -6,5 +6,5 @@
 *.eps
 *.DS_Store
 *.pdf
-*.idea
-./application/Figures
+.idea
+/application/Figures/
