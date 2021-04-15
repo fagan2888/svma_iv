@@ -5,3 +5,6 @@
 *.png
 *.eps
 *.DS_Store
+*.pdf
+*.idea
+*.Figures
