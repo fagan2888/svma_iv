@@ -7,4 +7,4 @@
 *.DS_Store
 *.pdf
 /.idea
-/application/Figures/
+/python/application/Figures/
